@@ -2,8 +2,8 @@
   "status": "success",
   "data": {
     "id": 1,
-    "employee_first_name": "Ria",
-    "employee_last_name": null,
+    "employee_first_name": "",
+    "employee_last_name": "",
     "employee_salary": 320800,
     "employee_age": 61,
     "profile_image": ""

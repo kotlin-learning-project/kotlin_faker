@@ -21,7 +21,7 @@ fun main() {
     println(resources_path)
 
 
-    for (i in 1..5) {
+    for (i in 1..3) {
         val file = "$resources_path/${fileName}_$i.json"
         File(file)
             .printWriter()
