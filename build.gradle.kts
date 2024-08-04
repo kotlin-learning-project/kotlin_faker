@@ -11,6 +11,8 @@ repositories {
 
 dependencies {
     testImplementation(kotlin("test"))
+
+    implementation("io.github.serpro69:kotlin-faker:1.6.0")
 }
 
 tasks.test {
