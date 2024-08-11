@@ -1,0 +1,250 @@
+COUNT: 1
+[2024-08-09 14:26:42.674] - [INFO ] -- LcsBridgeServer  --  !!!Start server called.
+
+[2024-08-09 14:26:45.340] - [INFO ] -- LMHomeTempFragment  --  validate cached data indicate - System is currently using cache
+[2024-08-09 14:26:45.341] - [INFO ] -- LMHomeActivity  --  EventBus Received HOMES_GET with status SUCCESS
+DURATION: 2024-08-09 14:26:45.341 minus 2024-08-09 14:26:45.340 = 0.001
+
+[2024-08-09 14:26:45.385] - [INFO ] -- LMHomeTempFragment  --  validate cached data indicate - System is currently using cache
+[2024-08-09 14:26:45.386] - [INFO ] -- LXConnectionManager  --  Battery optimizations ignored? -> false
+DURATION: 2024-08-09 14:26:45.386 minus 2024-08-09 14:26:45.385 = 0.001
+
+[2024-08-09 14:26:45.395] - [INFO ] -- LMHomeTempFragment  --  validate cached data indicate - System is currently using cache
+[2024-08-09 14:26:45.396] - [INFO ] -- LXConnectionManager  --  Battery optimizations ignored? -> false
+DURATION: 2024-08-09 14:26:45.396 minus 2024-08-09 14:26:45.395 = 0.001
+
+[2024-08-09 14:26:45.467] - [INFO ] -- LMHomeTempFragment  --  validate cached data indicate - System is currently using cache
+[2024-08-09 14:26:45.494] - [INFO ] -- LMServerManager  --  !!!_SYSTEM_READY received - check for Model Type.
+DURATION: 2024-08-09 14:26:45.494 minus 2024-08-09 14:26:45.467 = 0.027
+
+[2024-08-09 14:26:46.092] - [INFO ] -- LMHomeTempFragment  --  validate cached data indicate - System is currently using cache
+[2024-08-09 14:26:46.093] - [INFO ] -- LXConnectionManager  --  Battery optimizations ignored? -> false
+DURATION: 2024-08-09 14:26:46.093 minus 2024-08-09 14:26:46.092 = 0.001
+
+[2024-08-09 14:26:46.123] - [INFO ] -- LMHomeTempFragment  --  validate cached data indicate - System is currently using cache
+[2024-08-09 14:26:46.125] - [INFO ] -- LXConnectionManager  --  Battery optimizations ignored? -> false
+DURATION: 2024-08-09 14:26:46.125 minus 2024-08-09 14:26:46.123 = 0.002
+
+[2024-08-09 14:26:46.229] - [INFO ] -- LMHomeTempFragment  --  validate cached data indicate - System is currently using cache
+[2024-08-09 14:26:46.232] - [DEBUG] -- LcsBridgeWriteAndRequestService  --  !!! initLoadingWriters.
+DURATION: 2024-08-09 14:26:46.232 minus 2024-08-09 14:26:46.229 = 0.003
+
+[2024-08-09 14:26:50.345] - [INFO ] -- LMHomeTempFragment  --  validate cached data indicate - System is currently using cache
+[2024-08-09 14:26:50.459] - [INFO ] -- LXConnectionManager  --  Received a event Intent { act=android.net.wifi.RSSI_CHANGED flg=0x4000010 (has extras)
+DURATION: 2024-08-09 14:26:50.459 minus 2024-08-09 14:26:50.345 = 0.114
+
+[2024-08-09 14:26:53.702] - [INFO ] -- LMHomeTempFragment  --  validate cached data indicate - System is currently using cache
+[2024-08-09 14:26:53.704] - [INFO ] -- LXConnectionManager  --  Battery optimizations ignored? -> false
+DURATION: 2024-08-09 14:26:53.704 minus 2024-08-09 14:26:53.702 = 0.002
+
+[2024-08-09 14:26:53.716] - [INFO ] -- LMHomeTempFragment  --  validate cached data indicate - System is currently using cache
+[2024-08-09 14:26:53.717] - [INFO ] -- LXConnectionManager  --  Battery optimizations ignored? -> false
+DURATION: 2024-08-09 14:26:53.717 minus 2024-08-09 14:26:53.716 = 0.001
+
+[2024-08-09 14:26:53.794] - [INFO ] -- LMHomeTempFragment  --  validate cached data indicate - System is currently using cache
+[2024-08-09 14:26:53.821] - [INFO ] -- LMServerManager  --  !!!Reviewing if system: d6a0b281-ce35-45c2-bfd6-f5e8fd05a7ed is using CachedData
+DURATION: 2024-08-09 14:26:53.821 minus 2024-08-09 14:26:53.794 = 0.027
+[2024-08-09 14:26:53.824] - [DEBUG] -- LMKpiManager  --  !!!^trackHomeScreenConstructedTime -> 14.477
+
+Total cache Data duration: 0.180
+
+--------------------------x-----------------------x------------------------x--------------
+
+COUNT: 2
+[2024-08-09 14:27:37.047] - [INFO ] -- LcsBridgeServer  --  !!!Start server called.
+
+[2024-08-09 14:27:37.932] - [INFO ] -- LMHomeTempFragment  --  validate cached data indicate - System is currently using cache
+[2024-08-09 14:27:37.934] - [INFO ] -- LXConnectionManager  --  Battery optimizations ignored? -> false
+DURATION: 2024-08-09 14:27:37.934 minus 2024-08-09 14:27:37.932 = 0.002
+
+[2024-08-09 14:27:37.943] - [INFO ] -- LMHomeTempFragment  --  validate cached data indicate - System is currently using cache
+[2024-08-09 14:27:37.944] - [INFO ] -- LXConnectionManager  --  Battery optimizations ignored? -> false
+DURATION: 2024-08-09 14:27:37.944 minus 2024-08-09 14:27:37.943 = 0.001
+
+[2024-08-09 14:27:38.025] - [INFO ] -- LMHomeTempFragment  --  validate cached data indicate - System is currently using cache
+[2024-08-09 14:27:39.522] - [INFO ] -- LMServerManager  --  !!!_Retrieve Product Type from Systems.
+DURATION: 2024-08-09 14:27:39.522 minus 2024-08-09 14:27:38.025 = 1.497
+
+[2024-08-09 14:27:41.012] - [INFO ] -- LMHomeTempFragment  --  validate cached data indicate - System is currently using cache
+[2024-08-09 14:27:41.029] - [INFO ] -- LcsConnectionRecordListener  --  on_data_available
+DURATION: 2024-08-09 14:27:41.029 minus 2024-08-09 14:27:41.012 = 0.017
+
+[2024-08-09 14:27:43.810] - [INFO ] -- LMHomeTempFragment  --  validate cached data indicate - System is currently using cache
+[2024-08-09 14:27:43.813] - [INFO ] -- LXConnectionManager  --  Battery optimizations ignored? -> false
+DURATION: 2024-08-09 14:27:43.813 minus 2024-08-09 14:27:43.810 = 0.003
+
+[2024-08-09 14:27:43.850] - [INFO ] -- LMHomeTempFragment  --  validate cached data indicate - System is currently using cache
+[2024-08-09 14:27:43.853] - [INFO ] -- LXConnectionManager  --  Battery optimizations ignored? -> false
+DURATION: 2024-08-09 14:27:43.853 minus 2024-08-09 14:27:43.850 = 0.003
+
+[2024-08-09 14:27:43.970] - [INFO ] -- LMHomeTempFragment  --  validate cached data indicate - System is currently using cache
+[2024-08-09 14:27:46.014] - [INFO ] -- LMHomeTempFragment  --  validate cached data indicate - System is currently using cache
+DURATION: 2024-08-09 14:27:46.014 minus 2024-08-09 14:27:43.970 = 2.044
+
+[2024-08-09 14:27:46.014] - [INFO ] -- LMHomeTempFragment  --  validate cached data indicate - System is currently using cache
+[2024-08-09 14:27:47.488] - [DEBUG] -- LcsPlantSystemStatusHandler  --  !!!10 seconds passed since first cached data arrived
+DURATION: 2024-08-09 14:27:47.488 minus 2024-08-09 14:27:46.014 = 1.474
+
+[2024-08-09 14:27:51.015] - [INFO ] -- LMHomeTempFragment  --  validate cached data indicate - System is currently using cache
+[2024-08-09 14:27:56.016] - [INFO ] -- LMHomeTempFragment  --  validate cached data indicate - System is currently using cache
+DURATION: 2024-08-09 14:27:56.016 minus 2024-08-09 14:27:51.015 = 5.001
+
+[2024-08-09 14:27:56.016] - [INFO ] -- LMHomeTempFragment  --  validate cached data indicate - System is currently using cache
+[2024-08-09 14:27:56.896] - [INFO ] -- LXConnectionManager  --  Received a event Intent { act=android.net.wifi.RSSI_CHANGED flg=0x4000010 (has extras)
+DURATION: 2024-08-09 14:27:56.896 minus 2024-08-09 14:27:56.016 = 0.88
+
+[2024-08-09 14:28:01.015] - [INFO ] -- LMHomeTempFragment  --  validate cached data indicate - System is currently using cache
+[2024-08-09 14:28:02.942] - [INFO ] -- LXConnectionManager  --  Received a event Intent { act=android.net.wifi.RSSI_CHANGED flg=0x4000010 (has extras)
+DURATION: 2024-08-09 14:28:02.942 minus 2024-08-09 14:28:01.015 = 1.927
+
+[2024-08-09 14:28:05.887] - [INFO ] -- LMHomeTempFragment  --  validate cached data indicate - System is currently using cache
+[2024-08-09 14:28:07.869] - [INFO ] -- LXRequestManagerImpl  --  Adding request to queue at position 3 - RETRIEVE
+DURATION: 2024-08-09 14:28:07.869 minus 2024-08-09 14:28:05.887 = 1.982
+
+[2024-08-09 14:28:10.888] - [INFO ] -- LMHomeTempFragment  --  validate cached data indicate - System is currently using cache
+[2024-08-09 14:28:13.530] - [INFO ] -- LXRequestManagerImpl  --  !!!request with URL: https://gatewaymobile.qa4.myicomfort.com/v1/User
+DURATION: 2024-08-09 14:28:13.530 minus 2024-08-09 14:28:10.888 = 2.642
+
+[2024-08-09 14:28:15.888] - [INFO ] -- LMHomeTempFragment  --  validate cached data indicate - System is currently using cache
+[2024-08-09 14:28:16.238] - [INFO ] -- LMParticipantLocationDataReader  --  == ParticipantLocationReader Participant Location ==
+DURATION: 2024-08-09 14:28:16.238 minus 2024-08-09 14:28:15.888 = 0.35
+
+[2024-08-09 14:28:20.889] - [INFO ] -- LMHomeTempFragment  --  validate cached data indicate - System is currently using cache
+[2024-08-09 14:28:21.049] - [INFO ] -- LXConnectionManager  --  Received a event Intent { act=android.net.wifi.RSSI_CHANGED flg=0x4000010 (has extras)
+DURATION: 2024-08-09 14:28:21.049 minus 2024-08-09 14:28:20.889 = 0.16
+
+[2024-08-09 14:28:21.220] - [INFO ] -- LMHomeTempFragment  --  validate cached data indicate - System is currently using cache
+[2024-08-09 14:28:21.222] - [INFO ] -- LXConnectionManager  --  Battery optimizations ignored? -> false
+DURATION: 2024-08-09 14:28:21.222 minus 2024-08-09 14:28:21.220 = 0.002
+
+[2024-08-09 14:28:21.256] - [INFO ] -- LMHomeTempFragment  --  validate cached data indicate - System is currently using cache
+[2024-08-09 14:28:21.258] - [INFO ] -- LXConnectionManager  --  Battery optimizations ignored? -> false
+DURATION: 2024-08-09 14:28:21.258 minus 2024-08-09 14:28:21.256 = 0.002
+
+[2024-08-09 14:28:21.367] - [INFO ] -- LMHomeTempFragment  --  validate cached data indicate - System is currently using cache
+[2024-08-09 14:28:21.376] - [INFO ] -- LXRequestManagerImpl  --  Adding request to queue at position 4 - RETRIEVE
+DURATION: 2024-08-09 14:28:21.376 minus 2024-08-09 14:28:21.367 = 0.009
+
+[2024-08-09 14:28:22.500] - [INFO ] -- LMHomeTempFragment  --  validate cached data indicate - System is currently using cache
+[2024-08-09 14:28:22.501] - [INFO ] -- LMHomeTempFragment  --  validate cached data indicate - System is currently using cache
+DURATION: 2024-08-09 14:28:22.501 minus 2024-08-09 14:28:22.500 = 0.001
+
+[2024-08-09 14:28:22.501] - [INFO ] -- LMHomeTempFragment  --  validate cached data indicate - System is currently using cache
+[2024-08-09 14:28:22.878] - [INFO ] -- LXRequestManagerImpl  --  Adding request to queue at position 1 - RETRIEVE
+DURATION: 2024-08-09 14:28:22.878 minus 2024-08-09 14:28:22.501 = 0.377
+
+[2024-08-09 14:28:23.005] - [INFO ] -- LMHomeTempFragment  --  validate cached data indicate - System is currently using cache
+[2024-08-09 14:28:23.005] - [INFO ] -- LMHomeTempFragment  --  validate cached data indicate - System is currently using cache
+DURATION: 2024-08-09 14:28:23.005 minus 2024-08-09 14:28:23.005 = 0.0
+
+[2024-08-09 14:28:23.005] - [INFO ] -- LMHomeTempFragment  --  validate cached data indicate - System is currently using cache
+[2024-08-09 14:28:23.378] - [INFO ] -- LXRequestManagerImpl  --  Adding request to queue at position 0 - RETRIEVE
+DURATION: 2024-08-09 14:28:23.378 minus 2024-08-09 14:28:23.005 = 0.373
+
+[2024-08-09 14:28:25.891] - [INFO ] -- LMHomeTempFragment  --  validate cached data indicate - System is currently using cache
+[2024-08-09 14:28:27.103] - [INFO ] -- LXConnectionManager  --  Received a event Intent { act=android.net.wifi.RSSI_CHANGED flg=0x4000010 (has extras)
+DURATION: 2024-08-09 14:28:27.103 minus 2024-08-09 14:28:25.891 = 1.212
+
+[2024-08-09 14:28:30.892] - [INFO ] -- LMHomeTempFragment  --  validate cached data indicate - System is currently using cache
+[2024-08-09 14:28:35.803] - [INFO ] -- LXRequestManagerImpl  --  obIsRequestInProgress = false >> obRequestQueue.size() = 0
+DURATION: 2024-08-09 14:28:35.803 minus 2024-08-09 14:28:30.892 = 4.911
+
+[2024-08-09 14:28:35.887] - [INFO ] -- LMHomeTempFragment  --  validate cached data indicate - System is currently using cache
+[2024-08-09 14:28:35.930] - [INFO ] -- LXResponseHandler  --  JSON received from the actual request, with type: RETRIEVE, and code: 200 OK ... {"messa
+DURATION: 2024-08-09 14:28:35.930 minus 2024-08-09 14:28:35.887 = 0.043
+[2024-08-09 14:28:35.953] - [DEBUG] -- LMKpiManager  --  !!!^trackHomeScreenConstructedTime -> 60.904
+
+Total cache Data duration: 24.913
+
+--------------------------x-----------------------x------------------------x--------------
+
+COUNT: 3
+[2024-08-09 14:29:06.982] - [INFO ] -- LcsBridgeServer  --  !!!Start server called.
+
+[2024-08-09 14:29:07.520] - [INFO ] -- LMHomeTempFragment  --  validate cached data indicate - System is currently using cache
+[2024-08-09 14:29:07.521] - [INFO ] -- LXConnectionManager  --  Battery optimizations ignored? -> false
+DURATION: 2024-08-09 14:29:07.521 minus 2024-08-09 14:29:07.520 = 0.001
+
+[2024-08-09 14:29:07.531] - [INFO ] -- LMHomeTempFragment  --  validate cached data indicate - System is currently using cache
+[2024-08-09 14:29:07.532] - [INFO ] -- LXConnectionManager  --  Battery optimizations ignored? -> false
+DURATION: 2024-08-09 14:29:07.532 minus 2024-08-09 14:29:07.531 = 0.001
+
+[2024-08-09 14:29:07.606] - [INFO ] -- LMHomeTempFragment  --  validate cached data indicate - System is currently using cache
+[2024-08-09 14:29:07.633] - [INFO ] -- LMServerManager  --  !!!_SYSTEM_READY received - check for Model Type.
+DURATION: 2024-08-09 14:29:07.633 minus 2024-08-09 14:29:07.606 = 0.027
+
+[2024-08-09 14:29:08.222] - [INFO ] -- LMHomeTempFragment  --  validate cached data indicate - System is currently using cache
+[2024-08-09 14:29:08.224] - [INFO ] -- LXConnectionManager  --  Battery optimizations ignored? -> false
+DURATION: 2024-08-09 14:29:08.224 minus 2024-08-09 14:29:08.222 = 0.002
+
+[2024-08-09 14:29:08.253] - [INFO ] -- LMHomeTempFragment  --  validate cached data indicate - System is currently using cache
+[2024-08-09 14:29:08.254] - [INFO ] -- LXConnectionManager  --  Battery optimizations ignored? -> false
+DURATION: 2024-08-09 14:29:08.254 minus 2024-08-09 14:29:08.253 = 0.001
+
+[2024-08-09 14:29:08.343] - [INFO ] -- LMHomeTempFragment  --  validate cached data indicate - System is currently using cache
+[2024-08-09 14:29:08.531] - [INFO ] -- LXUtilities  --  Putting into Shared Preferences the key: PLANT_LCS_CREATION_TIME, and value: 1.545
+DURATION: 2024-08-09 14:29:08.531 minus 2024-08-09 14:29:08.343 = 0.188
+
+[2024-08-09 14:29:09.581] - [INFO ] -- LMHomeTempFragment  --  validate cached data indicate - System is currently using cache
+[2024-08-09 14:29:09.635] - [INFO ] -- LMServerManager  --  !!!_Retrieve Product Type from Systems.
+DURATION: 2024-08-09 14:29:09.635 minus 2024-08-09 14:29:09.581 = 0.054
+
+[2024-08-09 14:29:10.783] - [INFO ] -- LMHomeTempFragment  --  validate cached data indicate - System is currently using cache
+[2024-08-09 14:29:11.664] - [INFO ] -- LMParticipantLocationDataReader  --  == ParticipantLocationReader Participant Location ==
+DURATION: 2024-08-09 14:29:11.664 minus 2024-08-09 14:29:10.783 = 0.881
+
+[2024-08-09 14:29:13.528] - [INFO ] -- LMHomeTempFragment  --  validate cached data indicate - System is currently using cache
+[2024-08-09 14:29:13.530] - [INFO ] -- LXConnectionManager  --  Battery optimizations ignored? -> false
+DURATION: 2024-08-09 14:29:13.530 minus 2024-08-09 14:29:13.528 = 0.002
+
+[2024-08-09 14:29:13.547] - [INFO ] -- LMHomeTempFragment  --  validate cached data indicate - System is currently using cache
+[2024-08-09 14:29:13.549] - [INFO ] -- LXConnectionManager  --  Battery optimizations ignored? -> false
+DURATION: 2024-08-09 14:29:13.549 minus 2024-08-09 14:29:13.547 = 0.002
+
+[2024-08-09 14:29:13.668] - [INFO ] -- LMHomeTempFragment  --  validate cached data indicate - System is currently using cache
+[2024-08-09 14:29:13.669] - [DEBUG] -- LcsBridgeReadService  --  !!!initialize Data Reader -> LMZoneStatusDataReader
+DURATION: 2024-08-09 14:29:13.669 minus 2024-08-09 14:29:13.668 = 0.001
+[2024-08-09 14:29:13.700] - [DEBUG] -- LMKpiManager  --  !!!^trackHomeScreenConstructedTime -> 8.866
+
+Total cache Data duration: 1.160
+
+--------------------------x-----------------------x------------------------x--------------
+
+COUNT: 4
+[2024-08-09 14:29:36.753] - [INFO ] -- LcsBridgeServer  --  !!!Start server called.
+
+[2024-08-09 14:29:38.551] - [INFO ] -- LMHomeTempFragment  --  validate cached data indicate - System is currently using cache
+[2024-08-09 14:29:38.552] - [INFO ] -- LXConnectionManager  --  Battery optimizations ignored? -> false
+DURATION: 2024-08-09 14:29:38.552 minus 2024-08-09 14:29:38.551 = 0.001
+
+[2024-08-09 14:29:38.576] - [INFO ] -- LMHomeTempFragment  --  validate cached data indicate - System is currently using cache
+[2024-08-09 14:29:38.577] - [INFO ] -- LXConnectionManager  --  Battery optimizations ignored? -> false
+DURATION: 2024-08-09 14:29:38.577 minus 2024-08-09 14:29:38.576 = 0.001
+
+[2024-08-09 14:29:38.657] - [INFO ] -- LMHomeTempFragment  --  validate cached data indicate - System is currently using cache
+[2024-08-09 14:29:38.666] - [INFO ] -- LMServerManager  --  !!!_SYSTEM_READY received - check for Model Type.
+DURATION: 2024-08-09 14:29:38.666 minus 2024-08-09 14:29:38.657 = 0.009
+
+[2024-08-09 14:29:40.652] - [INFO ] -- LMHomeTempFragment  --  validate cached data indicate - System is currently using cache
+[2024-08-09 14:29:40.667] - [INFO ] -- LMServerManager  --  !!!_Retrieve Product Type from Systems.
+DURATION: 2024-08-09 14:29:40.667 minus 2024-08-09 14:29:40.652 = 0.015
+
+[2024-08-09 14:29:44.270] - [INFO ] -- LMHomeTempFragment  --  validate cached data indicate - System is currently using cache
+[2024-08-09 14:29:44.272] - [INFO ] -- LXConnectionManager  --  Battery optimizations ignored? -> false
+DURATION: 2024-08-09 14:29:44.272 minus 2024-08-09 14:29:44.270 = 0.002
+
+[2024-08-09 14:29:44.291] - [INFO ] -- LMHomeTempFragment  --  validate cached data indicate - System is currently using cache
+[2024-08-09 14:29:44.293] - [INFO ] -- LXConnectionManager  --  Battery optimizations ignored? -> false
+DURATION: 2024-08-09 14:29:44.293 minus 2024-08-09 14:29:44.291 = 0.002
+
+[2024-08-09 14:29:44.414] - [INFO ] -- LMHomeTempFragment  --  validate cached data indicate - System is currently using cache
+[2024-08-09 14:29:44.415] - [DEBUG] -- LcsBridgeReadService  --  !!!initialize Data Reader -> LMZoneStatusDataReader
+DURATION: 2024-08-09 14:29:44.415 minus 2024-08-09 14:29:44.414 = 0.001
+[2024-08-09 14:29:44.494] - [DEBUG] -- LMKpiManager  --  !!!^trackHomeScreenConstructedTime -> 9.976
+
+Total cache Data duration: 0.031
+
+--------------------------x-----------------------x------------------------x--------------
+
+
+Process finished with exit code 0

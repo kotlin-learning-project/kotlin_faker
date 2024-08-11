@@ -5,7 +5,7 @@ import java.time.LocalDateTime
 import java.time.format.DateTimeFormatter
 
 fun main() {
-    val logList = File("src/main/resources/mobile_1.log").useLines {
+    val logList = File("src/main/resources/mobile.log").useLines {
         it.toList()
     }
 
